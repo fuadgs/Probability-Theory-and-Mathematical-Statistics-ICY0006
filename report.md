@@ -21,17 +21,17 @@ In addition, Prices were fetched from Yahoo Finance, fundamentals are from Nasda
 
 Datasets consist of following variables:
 
--Open Price is a price of stock when stock market is opened.
--Close Price is a price of stock after closure stock market.
--Low Price is a minimal price of stock during the day. 
--High Price is a highest price of the stock.
--Volume is measured in the number of shares traded.
--Accounts Payable is money owed by a business to its suppliers shown as a liability on a company's balance sheet.
--Accounts receivable are legally enforceable claims for payment held by a business for goods supplied or services rendered that customers have ordered but not paid for.
--Return on equity (ROE) is a measure of financial performance calculated by dividing net income by shareholders' equity.
--Capital expenditure or capital expense is the money an organization or corporate entity spends to buy,
--Capital surplus, also called share premium, is an account which may appear on a corporation's balance sheet, as a component of shareholders' equity, which represents the amount the corporation raises on the issue of shares in excess of their par value of the shares.
--The cash ratio is a measurement of a company's liquidity, specifically the ratio of a company's total cash and cash equivalents to its current liabilities.
+- Open Price is a price of stock when stock market is opened.
+- Close Price is a price of stock after closure stock market.
+- Low Price is a minimal price of stock during the day. 
+- High Price is a highest price of the stock.
+- Volume is measured in the number of shares traded.
+- Accounts Payable is money owed by a business to its suppliers shown as a liability on a company's balance sheet.
+- Accounts receivable are legally enforceable claims for payment held by a business for goods supplied or services rendered that customers have ordered but not paid for.
+- Return on equity (ROE) is a measure of financial performance calculated by dividing net income by shareholders' equity.
+- Capital expenditure or capital expense is the money an organization or corporate entity spends to buy,
+- Capital surplus, also called share premium, is an account which may appear on a corporation's balance sheet, as a component of shareholders' equity, which represents the amount the corporation raises on the issue of shares in excess of their par value of the shares.
+- The cash ratio is a measurement of a company's liquidity, specifically the ratio of a company's total cash and cash equivalents to its current liabilities.
 
 
 
