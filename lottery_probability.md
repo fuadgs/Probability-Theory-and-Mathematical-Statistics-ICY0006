@@ -1,4 +1,4 @@
-## Probability of winning of Mega Millions https://www.megamillions.com/
+## Probability of winning of Mega Millions 
 
 Mega Millions is an American multi-jurisdictional lottery game.
 
@@ -75,5 +75,5 @@ Finally, the probability of 0 + 1 winning combinations is:
 
 12,113,014 * 1/17,259,390 * 1/15 = 1/21.39 = 1/21
 
-Source:
+####  Source:  <br>
 https://www.megamillions.com/
