@@ -48,31 +48,32 @@ The 3 out of 5 combinations calculations are below:
 5!/3!*2! * 70!/68!*2! = 24,150
 Finally, the probability of 3 + 1 winning combinations is:
 
-24,150 * 1/17,259,390* 1/15 = 1/14,494
+24,150 * 1/17,259,390* 1/15 = 1/10,720.11 = 1/10,720
 6. 3 + 0
 The probability of 3 + 0 winning combinations is:
 
-20,160 * 1/11,238,513 * 25/26 = 1/579
+24,150 * 1/17,259,390 * 14/15 = 1/765.72 = 1/766
 7. 2 + 1
 The 2 out of 5 combinations calculations are below:
 
-5!/2!*3! * 64!/61!*3! = 416,640
+5!/2!*3! * 70!/67!*3! = 547,400
 Finally, the probability of 2 + 1 winning combinations is:
 
-416,640 * 1/11,238,513 * 1/26 = 1/701.33
+547,400 * 1/17,259,390 * 1/15 = 1/472.94 = 1/473
 8. 1 + 1
 The 1 out of 5 combinations calculations are below:
 
-5!/1!*4! * 64!/60!*4! = 3,176,880
+5!/1!*4! * 70!/66!*4! = 4,584,475
 Finally, the probability of 1 + 1 winning combinations is:
 
-3,176,880 * 1/11,238,513 * 1/26 = 1/92
+4,584,475 * 1/17,259,390 * 1/15 = 1/56.47 = 1/56
 9. 0 + 1
 The number of ways in which no numbers are chosen correctly out of 5 numbers calculations are below:
 
-5!/0!*5! * 64!/59!*5! = 7,624,512
+5!/0!*5! * 70!/65!*5! = 12,113,014
 Finally, the probability of 0 + 1 winning combinations is:
 
-7,624,512 * 1/11,238,513 * 1/26 = 1/38.32
+12,113,014 * 1/17,259,390 * 1/15 = 1/21.39 = 1/21
+
 Source:
- https://www.megamillions.com/
+https://www.megamillions.com/
