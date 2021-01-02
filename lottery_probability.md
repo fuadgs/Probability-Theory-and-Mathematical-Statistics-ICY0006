@@ -76,4 +76,4 @@ Finally, the probability of 0 + 1 winning combinations is:
 12,113,014 * 1/17,259,390 * 1/15 = 1/21.39 = 1/21
 
 ####  Source:  <br>
-https://www.megamillions.com/
+https://en.wikipedia.org/wiki/Mega_Millions?fbclid=IwAR0LR78dpzP7_7Z9XU0M5ToHQ3sg4Pwms6dlNOsGKcbxMKlabX0gxBeALRc
