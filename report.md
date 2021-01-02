@@ -26,6 +26,7 @@ Datasets consist of following variables:
 - Low Price is a minimal price of stock during the day. 
 - High Price is a highest price of the stock.
 - Volume is measured in the number of shares traded.
+- Ticker Symbol is a Symbol of Stock in New York Stock Exchange market.
 - Accounts Payable is money owed by a business to its suppliers shown as a liability on a company's balance sheet.
 - Accounts receivable are legally enforceable claims for payment held by a business for goods supplied or services rendered that customers have ordered but not paid for.
 - Return on equity (ROE) is a measure of financial performance calculated by dividing net income by shareholders' equity.
@@ -34,8 +35,8 @@ Datasets consist of following variables:
 - The cash ratio is a measurement of a company's liquidity, specifically the ratio of a company's total cash and cash equivalents to its current liabilities.
 
 
-
 ### Stage 2
+
 
 
 ### Stage 3
