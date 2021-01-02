@@ -15,40 +15,40 @@ Here n is amount of numbers in the pool to select from (e.g. in this game 75 or 
 1. 5 + 1 - all five numbers and Mega Ball are correctly guessed in this scenario and jackpot is won
 The odd for winning is 1 in 258,890,850. We calculcate that number as follows:
 
-69! / 5! * (69 - 5)! = 11,238,513
-The above is the number of combinations. For powerball the probability is 1/26 and 26 combinations.
-Therefore, five numbers plus powerball numbers you need to multiply the above calculations:
+75! / 5! * (75 - 5)! = 17,259,390
+The above is the number of combinations. For mega ball the probability is 1/15 and 15 combinations.
+Therefore, five numbers plus mega ball numbers you need to multiply the above calculations:
 
-1 / 11,238,513 * 1 / 26 = 1 / 292,201,338
+1 / 17,259,390 * 1 / 15 = 1 / 258,890,850
 This is the probability of winning this lottery.
 
-2. 5 + 0 - all five numbers have to be guessed and Powerball not guessed
+2. 5 + 0 - all five numbers have to be guessed and Mega Ball not guessed
 The probability to guess 5 numbers is the same as above:
 
-1/11,238,513
-There are 26-1=25 incorrect combinations not to guess Powerball number. So, the probablity is 25/26.
+1/17,259,390
+There are 15-1=14 incorrect combinations not to guess Mega Ball number. So, the probablity is 14/15.
 
 The final calculations are as follows:
 
-1 / 11,238,513 * 25 / 26 = 25/ 292,201,338 = 1/11,688,053.52
-3. 4 + 1 - guess 4 out of 5 selected numbers + powerball number
-The number of combinations is 11,238,513 as calculated before. Powerball probability: 1/26 The 4 out of 5 combinations calculations are below:
+1 / 17,259,390 * 14 / 15 = 14/ 258,890,850 = 1/18,492,203.57 = 1/18,492,204
+3. 4 + 1 - guess 4 out of 5 selected numbers + Mega Ball number
+The number of combinations is 17,259,390 as calculated before. Mega Ball probability: 1/15 The 4 out of 5 combinations calculations are below:
 
-5!/4!*1! * 64!/63!*1! = 320
+5!/4!*1! * 70!/69!*1! = 350
 Finally, the probability of 4 + 1 winning combinations is:
 
-320 * 1/11,238,513 * 1/26 = 1/913,129.18125
+350 * 1/17,259,390 * 1/15 = 1/739,688.14 = 1/739,688
 4. 4 + 0 - guess 4 out of 5 selected numbers and no powerball number
 Following the logic above:
 
-320 * 1/11,238,513 * 25/26 = 36,525.16725
+350 * 1/17,259,390 * 14/15 = 1/52,834.86 = 1/52,835 
 5. 3 + 1
 The 3 out of 5 combinations calculations are below:
 
-5!/3!*2! * 64!/62!*2! = 20,160
+5!/3!*2! * 70!/68!*2! = 24,150
 Finally, the probability of 3 + 1 winning combinations is:
 
-20,160 * 1/11,238,513 * 1/26 = 1/14,494
+24,150 * 1/17,259,390* 1/15 = 1/14,494
 6. 3 + 0
 The probability of 3 + 0 winning combinations is:
 
