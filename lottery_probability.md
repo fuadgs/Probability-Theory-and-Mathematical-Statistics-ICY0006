@@ -1,5 +1,5 @@
 
-Probability of winning of Mega Millions https://www.megamillions.com/
+##Probability of winning of Mega Millions https://www.megamillions.com/
 Mega Millions is an American multi-jurisdictional lottery game.
 
 Mega Millions jackpot grows until it is won. Players select five numbers from 1 to 75 and one Powerball number from 1 to 15. Players can multiply non-jackpot prizes by 2, 3, 4, 5 times with the Megaplier option for an additional $1 per play.
