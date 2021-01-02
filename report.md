@@ -14,6 +14,10 @@ New York Stock Exchange  Kaggle Dataset is S&P 500 companies historical prices w
 
 In addition, Prices were fetched from Yahoo Finance, fundamentals are from Nasdaq Financials, extended by some fields from EDGAR SEC databases.
 
+Following algorithms and actions could be applied by using this Data set:
+- One day ahead prediction: Rolling Linear Regression, ARIMA, Neural Networks, LSTM
+- Momentum/Mean-Reversion Strategies
+- Security clustering, portfolio construction/hedging
 
 
 ### Stage 2
