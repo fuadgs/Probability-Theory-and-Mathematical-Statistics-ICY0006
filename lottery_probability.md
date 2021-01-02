@@ -1,6 +1,6 @@
 
-Powerball lottery probability
-Powerball is an American lottery game.
+Probability of winning of Mega Millions https://www.megamillions.com/
+Mega Millions is an American  multi-jurisdictional lottery game.
 
 The Powerball jackpot grows until it is won. Players select five numbers from 1 to 69 and one Powerball number from 1 to 26. Players can multiply non-jackpot prizes by 2, 3, 4, 5 or 10 times with the Powerplay option for an additional $1 per play.
 
