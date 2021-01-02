@@ -2,9 +2,12 @@
 Probability of winning of Mega Millions https://www.megamillions.com/
 Mega Millions is an American  multi-jurisdictional lottery game.
 
-The Powerball jackpot grows until it is won. Players select five numbers from 1 to 69 and one Powerball number from 1 to 26. Players can multiply non-jackpot prizes by 2, 3, 4, 5 or 10 times with the Powerplay option for an additional $1 per play.
+Mega Millions jackpot grows until it is won. Players select five numbers from 1 to 75 and one Powerball number from 1 to 15. Players can multiply non-jackpot prizes by 2, 3, 4, 5 times with the Megaplier option for an additional $1 per play.
 
-Powerball jackpot winners may choose to receive their prize as an annuity, paid in 30 graduated payments over 29 years, or a lump sum payment. By using the formula below we are going to calculate the probability of the winning conditions and verify the results against the numbers posted on Wikipedia.
+Mega Millions winners have either 180 days (California non-jackpot prizes only) or one year to claim prizes, including the jackpot (although some Mega Millions winners lose the right to collect a jackpot in cash if they wait more than 60 days after the drawing).
+
+
+We will measure the likelihood of the winning conditions by using the formula below, and check the results against the numbers posted on Wikipedia.
 
 n! / r! (n-r)!
 Here n is amount of numbers in the pool to select from (e.g. in this game 69 or 26 for Powerball). r is how many we can select (e.g. 5 or 1 for Powerball number).
@@ -72,4 +75,4 @@ Finally, the probability of 0 + 1 winning combinations is:
 
 7,624,512 * 1/11,238,513 * 1/26 = 1/38.32
 Source:
-https://www.powerball.com/index.php/about?fbclid=IwAR0wdUhg7agx2DjK_6PrjXdWu4w9H9KLow8L5BdAAjCI67UJ4x5_g15YnvI https://en.wikipedia.org/wiki/Powerball?fbclid=IwAR2WTalD8EePzhy3BnlaBYRjDrHxCZ_nCxmz5raNVobmvIb_zKh7gN65SoA
+ https://www.megamillions.com/
