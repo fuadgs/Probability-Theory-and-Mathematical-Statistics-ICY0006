@@ -80,6 +80,7 @@ In addition, analysis is done on Facebook and Microsoft stocks too.
 
 The regression models using training set and testing set by using the following functions below:
 
+```
 def plotter(code):
     global closing_stock
     global opening_stock
@@ -108,8 +109,10 @@ def plotter(code):
     plt.show()
 for i in comp_plot:
     plotter(i)
-    
-    
+```
+
+
+```
     def process_data(data , n_features):
     dataX, dataY = [], []
     for i in range(len(data)-n_features-1):
@@ -117,13 +120,14 @@ for i in comp_plot:
         dataX.append(a)
         dataY.append(data[i + n_features, 0])
     return np.array(dataX), np.array(dataY)
-    
+ ```   
+ ``` 
     def model_score(model, X_train, y_train, X_test, y_test):
     trainScore = model.evaluate(X_train, y_train, verbose=0)
     print('Train Score: %.5f MSE (%.2f RMSE)' % (trainScore[0], math.sqrt(trainScore[0])))
     testScore = model.evaluate(X_test, y_test, verbose=0)
     print('Test Score: %.5f MSE (%.2f RMSE)' % (testScore[0], math.sqrt(testScore[0])))
     return trainScore[0], testScore[0]
-
+```
 
 
