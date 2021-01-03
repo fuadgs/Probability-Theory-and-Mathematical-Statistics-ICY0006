@@ -49,6 +49,13 @@ Scatter and Density plot is also constructed showing the relationship between ea
 
 ![Scatter and Density plot](Images/result2.png)
 
+
+You can see the generated plot of stock price prediction by using Linear regression below:
+
+
+![Linear Regression](Images/stockpriceslinearregression.png)
+
+
 In addition, analysis is done on Facebook and Microsoft stocks too. 
 <br>
 
