@@ -135,5 +135,7 @@ The linear model performance for training set and test set are below:
 
 ![Performance](Images/RMS.png)
 
+In addition, the accuracy of the model is measured and visible in graph below where
+Red - Predicted Stock Prices  ,  Blue - Actual Stock Prices
 
 ![Performance](Images/acc.png)
