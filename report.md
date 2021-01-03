@@ -37,6 +37,12 @@ Datasets consist of following variables:
 
 ### Stage 2
 
+In order to make stock price prediction Open Price, Close Price, Low Price and Volume variables are used. 
+In general following could be told 
+
+
+![Median, Mean, Minimal, Standard Deviation values](Images/777.png)
+
 
 
 ### Stage 3
