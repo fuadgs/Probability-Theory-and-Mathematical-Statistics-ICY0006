@@ -77,3 +77,53 @@ In addition, analysis is done on Facebook and Microsoft stocks too.
 
 ### Stage 5
 
+
+The regression models using training set and testing set by using the following functions below:
+
+def plotter(code):
+    global closing_stock
+    global opening_stock
+    f, axs = plt.subplots(2,2,figsize=(8,8))
+    plt.subplot(212)
+    company = df[df['symbol']==code]
+    company = company.open.values.astype('float32')
+    company = company.reshape(-1, 1)
+    opening_stock = company
+    plt.grid(True)
+    plt.xlabel('Time')
+    plt.ylabel(code + " open stock prices")
+    plt.title('prices Vs Time')
+    plt.plot(company , 'g')
+    
+    plt.subplot(211)
+    company_close = df[df['symbol']==code]
+    company_close = company_close.close.values.astype('float32')
+    company_close = company_close.reshape(-1, 1)
+    closing_stock = company_close
+    plt.xlabel('Time')
+    plt.ylabel(code + " close stock prices")
+    plt.title('prices Vs Time')
+    plt.grid(True)
+    plt.plot(company_close , 'b')
+    plt.show()
+for i in comp_plot:
+    plotter(i)
+    
+    
+    def process_data(data , n_features):
+    dataX, dataY = [], []
+    for i in range(len(data)-n_features-1):
+        a = data[i:(i+n_features), 0]
+        dataX.append(a)
+        dataY.append(data[i + n_features, 0])
+    return np.array(dataX), np.array(dataY)
+    
+    def model_score(model, X_train, y_train, X_test, y_test):
+    trainScore = model.evaluate(X_train, y_train, verbose=0)
+    print('Train Score: %.5f MSE (%.2f RMSE)' % (trainScore[0], math.sqrt(trainScore[0])))
+    testScore = model.evaluate(X_test, y_test, verbose=0)
+    print('Test Score: %.5f MSE (%.2f RMSE)' % (testScore[0], math.sqrt(testScore[0])))
+    return trainScore[0], testScore[0]
+
+
+
