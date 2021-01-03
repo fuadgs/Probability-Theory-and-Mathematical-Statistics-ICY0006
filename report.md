@@ -38,10 +38,13 @@ Datasets consist of following variables:
 ### Stage 2
 
 In order to make stock price prediction Open Price, Close Price, Low Price and Volume variables are used. 
-In general following could be told 
-
+In general following could be told based on figure below:
 
 ![Median, Mean, Minimal, Standard Deviation values](Images/777.png)
+
+As it is visible from table above the Mean openining is 70.83 whereas mean closing value is 70.85. In addition, the mean low and high values are 70.11 and 71.54 respectively. 
+The maximum mean values are fluctiating between 1549 and 1600.
+
 
 
 
