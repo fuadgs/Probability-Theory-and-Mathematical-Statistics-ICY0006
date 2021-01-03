@@ -50,6 +50,11 @@ Scatter and Density plot is also constructed showing the relationship between ea
 ![Scatter and Density plot](Images/result2.png)
 
 
+
+### Stage 3
+
+Also, by using RM, LSTAT, and PTRATIO the linear regression model has been implemented and scatter plots with line have been developed.
+
 You can see the generated plot of stock price prediction by using Linear regression below:
 
 
@@ -63,10 +68,5 @@ In addition, analysis is done on Facebook and Microsoft stocks too.
 
 ![FB](Images/fb.png)
 
-
-
-### Stage 3
-
-### Stage 4
 
 ### Stage 5
