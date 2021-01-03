@@ -51,6 +51,7 @@ The maximum mean values are fluctiating between 1549 and 1600.
 
 ### Stage 3
 
+The highest correlations are observed between Volume and Low Price,  as well as between Close Price and Volume. It make sense because the lower prices are the more investers get interested in investing and also the less the plosing price is the more "buy" operations performed on stock next day. 
 
 Five independent variables - namely,  Open Price, Close Price, Low Price and Volume are used in the scatter plots. 
 
@@ -75,3 +76,4 @@ In addition, analysis is done on Facebook and Microsoft stocks too.
 
 
 ### Stage 5
+
