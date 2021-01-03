@@ -7,3 +7,6 @@ New York Stock Exchange in Kaggle. (could be found in https://www.kaggle.com/dga
 
 Repository contains all related .py script and reports.
 
+lottery_probability.md describes Stage 4 of the Project
+
+report.md describes all reamaining Stages of the Project Stages 1,2,3,5
