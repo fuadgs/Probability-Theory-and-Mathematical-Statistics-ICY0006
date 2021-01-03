@@ -45,13 +45,18 @@ In general following could be told based on figure below:
 As it is visible from table above the Mean openining is 70.83 whereas mean closing value is 70.85. In addition, the mean low and high values are 70.11 and 71.54 respectively. 
 The maximum mean values are fluctiating between 1549 and 1600.
 
-Scatter and Density plot is also constructed showing the relationship between each other of Open Price, Close Price, Low Price and Volume variables
 
-![Scatter and Density plot](Images/result2.png)
 
 
 
 ### Stage 3
+
+
+Five independent variables - namely,  Open Price, Close Price, Low Price and Volume are used in the scatter plots. 
+
+Scatter and Density plot is constructed showing the relationship between each other of Open Price, Close Price, Low Price and Volume variables
+
+![Scatter and Density plot](Images/result2.png)
 
 Also, by using RM, LSTAT, and PTRATIO the linear regression model has been implemented and scatter plots with line have been developed.
 
