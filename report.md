@@ -50,7 +50,7 @@ Scatter and Density plot is also constructed covering Open Price, Close Price, L
 ![Scatter and Density plot](Images/result2.png)
 
 In addition, analysis is done on Facebook and Microsoft stocks too. 
-![MSFT](Images/msft.png)  <br>
+![MSFT](Images/msft.png)  </br>
 ![FB](Images/fb.png)
 
 
