@@ -45,7 +45,7 @@ In general following could be told based on figure below:
 As it is visible from table above the Mean openining is 70.83 whereas mean closing value is 70.85. In addition, the mean low and high values are 70.11 and 71.54 respectively. 
 The maximum mean values are fluctiating between 1549 and 1600.
 
-
+![Scatter and Density plot](Images/result2.png)
 
 
 ### Stage 3
