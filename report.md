@@ -131,3 +131,7 @@ for i in comp_plot:
 ```
 
 
+The linear model performance for training set and test set are below:
+
+![Performance](Images/RMS.png)
+
